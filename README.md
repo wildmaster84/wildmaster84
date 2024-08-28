@@ -1,3 +1,14 @@
 ## I just code when im bored
 
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=wildmaster84&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My Github stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wildmaster84&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="221" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wildmaster84&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=true&order=2&custom_title=My%20Known%20Languages" height="221" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=12&username=wildmaster84&theme=tokyonight" alt="Layout with last medium posts"  />
+</div>
+
+###
